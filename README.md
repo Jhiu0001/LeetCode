@@ -17,3 +17,4 @@ Solutions Added
 Solutions Added
 •Palindrome Number (#9)
 •Roman To Integer (#13)
+•Longest Common Prefix (#14)    
