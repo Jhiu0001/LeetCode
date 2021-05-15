@@ -3,7 +3,7 @@ Author: James Hiu
 Description: 
 A collection of solutions to problems found on LeetCode.
 
-All solutions contains comments where I explain my thought process. How I am approaching the problem
+All solutions contains comments where I explain my thought process writing the code
 
 
 **May-13-2021**
