@@ -5,6 +5,9 @@ A collection of solutions to problems found on LeetCode.
 
 All solutions contains comments where I explain my thought process writing the code
 
+**May-16-2021**
+•Merge Two Sorted Lists (#21)
+
 **May-15-2021**
 •Valid Parentheses (#20)
 
