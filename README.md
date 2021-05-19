@@ -7,6 +7,7 @@ All solutions contains comments where I explain my thought process writing the c
 
 **May-18-2021**
 •Remove Element (#27)
+•Implement strStr(#28)   
 
 **May-17-2021**
 •Remove Duplicates from Sorted Array (#26)
