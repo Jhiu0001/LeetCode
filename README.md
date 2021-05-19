@@ -5,6 +5,9 @@ A collection of solutions to problems found on LeetCode.
 
 All solutions contains comments where I explain my thought process writing the code
 
+**May-18-2021**
+•Remove Element (#27)
+
 **May-17-2021**
 •Remove Duplicates from Sorted Array (#26)
 
