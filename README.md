@@ -5,7 +5,7 @@ A collection of solutions to problems found on LeetCode.
 
 All solutions contains comments where I explain my thought process writing the code
 
-**May-18-2021**
+**May-19-2021**
 •Search Insert Position (#35)
 
 **May-18-2021**
