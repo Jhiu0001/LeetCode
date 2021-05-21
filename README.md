@@ -5,6 +5,9 @@ A collection of solutions to problems found on LeetCode.
 
 All solutions contains comments where I explain my thought process writing the code
 
+**May-21-2021**
+•Length of Last Word (#58)
+
 **May-20-2021**
 •Maximum SubArray (#53)
 
