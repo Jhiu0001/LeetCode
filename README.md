@@ -7,6 +7,7 @@ All solutions contains comments where I explain my thought process writing the c
 
 **May-21-2021**
 •Length of Last Word (#58)
+•Plus One (#66)
 
 **May-20-2021**
 •Maximum SubArray (#53)
