@@ -9,6 +9,7 @@ All solutions contains comments where I explain my thought process writing the c
 •Length of Last Word (#58)
 •Plus One (#66)
 •Add Binary (#67)
+•Sqrt(x) (#69)
 
 **May-20-2021**
 •Maximum SubArray (#53)
