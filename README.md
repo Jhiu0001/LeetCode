@@ -6,6 +6,9 @@ A collection of solutions to problems found on LeetCode.
 All solutions contains comments where I explain my thought process writing the code
 
 **May-22-2021**
+•Remove Duplicates from Sorted List (#83)
+
+**May-22-2021**
 •Climbing Stairs (#70)
 
 **May-21-2021**
