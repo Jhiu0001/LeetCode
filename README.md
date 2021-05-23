@@ -5,8 +5,9 @@ A collection of solutions to problems found on LeetCode.
 
 All solutions contains comments where I explain my ideas
 
-**May-22-2021**
+**May-23-2021**
 •Remove Duplicates from Sorted List (#83)
+•Merge Sorted Array (#88)
 
 **May-22-2021**
 •Climbing Stairs (#70)
