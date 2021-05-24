@@ -5,6 +5,9 @@ A collection of solutions to problems found on LeetCode.
 
 All solutions contains comments where I explain my ideas
 
+**May-24-2021**
+•In Order Traversal (#94)
+
 **May-23-2021**
 •Remove Duplicates from Sorted List (#83)
 •Merge Sorted Array (#88)
