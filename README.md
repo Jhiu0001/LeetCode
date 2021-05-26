@@ -5,6 +5,9 @@ A collection of solutions to problems found on LeetCode.
 
 All solutions contains comments where I explain my ideas
 
+**May-25-2021**
+•Same Tree (#100)
+
 **May-24-2021**
 •In Order Traversal (#94)
 
