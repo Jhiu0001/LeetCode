@@ -5,6 +5,9 @@ A collection of solutions to problems found on LeetCode.
 
 All solutions contains comments where I explain my ideas
 
+**May-26-2021**
+•Symmetric Tree (#101)
+
 **May-25-2021**
 •Same Tree (#100)
 
