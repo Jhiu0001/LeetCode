@@ -5,7 +5,7 @@ A collection of solutions to problems found on LeetCode.
 
 All solutions contains comments where I explain my ideas
 
-**May-26-2021**
+**May-27-2021**
 •Max Depth of Binary Tree (#104)
 
 **May-26-2021**
